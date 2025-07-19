@@ -1,0 +1,12 @@
+"apr"	{"average_pollution": 4.49721, "max_pollution": 16220.329602, "min_pollution": 1e-06, "std_deviation": 175.992229, "active_locations": 27576, "total_pollution": 124015.056391}
+"aug"	{"average_pollution": 12.614346, "max_pollution": 105172.313, "min_pollution": 1e-06, "std_deviation": 717.161634, "active_locations": 27420, "total_pollution": 345885.358624}
+"dec"	{"average_pollution": 4.190013, "max_pollution": 16055.251871, "min_pollution": 1e-06, "std_deviation": 122.887661, "active_locations": 27693, "total_pollution": 116034.03436}
+"feb"	{"average_pollution": 3.186221, "max_pollution": 12036.05836, "min_pollution": 1e-06, "std_deviation": 108.805116, "active_locations": 27458, "total_pollution": 87487.251552}
+"jan"	{"average_pollution": 75.759562, "max_pollution": 479685.034666, "min_pollution": 1e-06, "std_deviation": 3139.565147, "active_locations": 31783, "total_pollution": 2407866.149084}
+"jul"	{"average_pollution": 11.710839, "max_pollution": 85254.851934, "min_pollution": 1e-06, "std_deviation": 599.695161, "active_locations": 27849, "total_pollution": 326135.154499}
+"jun"	{"average_pollution": 7.086126, "max_pollution": 61244.561957, "min_pollution": 1e-06, "std_deviation": 392.562109, "active_locations": 28238, "total_pollution": 200098.026497}
+"mar"	{"average_pollution": 3.733812, "max_pollution": 13799.610237, "min_pollution": 1e-06, "std_deviation": 142.40095, "active_locations": 27043, "total_pollution": 100973.478721}
+"may"	{"average_pollution": 4.753125, "max_pollution": 33019.630229, "min_pollution": 1e-06, "std_deviation": 223.241627, "active_locations": 28114, "total_pollution": 133629.369565}
+"nov"	{"average_pollution": 6.589681, "max_pollution": 23316.020047, "min_pollution": 1e-06, "std_deviation": 203.564483, "active_locations": 27493, "total_pollution": 181170.089546}
+"oct"	{"average_pollution": 11.828387, "max_pollution": 53897.73881, "min_pollution": 1e-06, "std_deviation": 458.108392, "active_locations": 26973, "total_pollution": 319047.070781}
+"sep"	{"average_pollution": 13.977081, "max_pollution": 68304.308577, "min_pollution": 1e-06, "std_deviation": 618.257791, "active_locations": 26827, "total_pollution": 374963.148205}
