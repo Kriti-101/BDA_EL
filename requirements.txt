@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+folium
+numpy
+scipy
+matplotlib
+seaborn
+streamlit-folium
+pyspark
+mrjob
