@@ -9,3 +9,4 @@ seaborn
 streamlit-folium
 pyspark
 mrjob
+psutil
